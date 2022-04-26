@@ -31,3 +31,5 @@ To learn more, checkout the [official guide](https://flask.palletsprojects.com/e
 [map Bounds](https://developers.google.com/maps/documentation/javascript/examples/control-bounds-restriction)
 
 [Mapa de nuevo leon](https://www.3museos.com/?eventos=la-gran-ciudad-del-nuevo-reino-de-leon)
+
+[styling wizard](https://mapstyle.withgoogle.com/)
