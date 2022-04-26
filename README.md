@@ -23,3 +23,5 @@ We then use the `route()` decorator to tell Flask what URL should trigger our fu
 The function returns the message we want to display in the user’s browser. The default content type is HTML, so HTML in the string will be rendered by the browser.
 
 To learn more, checkout the [official guide](https://flask.palletsprojects.com/en/2.0.x/quickstart/).
+
+[Juegos PSP en vita](https://www.cheapassgamer.com/topic/281768-complete-list-of-pspminispsone-games-playable-on-vita/)
