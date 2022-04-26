@@ -25,3 +25,7 @@ The function returns the message we want to display in the user’s browser. The
 To learn more, checkout the [official guide](https://flask.palletsprojects.com/en/2.0.x/quickstart/).
 
 [Juegos PSP en vita](https://www.cheapassgamer.com/topic/281768-complete-list-of-pspminispsone-games-playable-on-vita/)
+
+[Overlay svg on a map](https://stackoverflow.com/questions/28586618/add-custom-svg-layer-on-google-map-api-v3)
+
+[map Bounds](https://developers.google.com/maps/documentation/javascript/examples/control-bounds-restriction)
