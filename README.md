@@ -33,3 +33,5 @@ To learn more, checkout the [official guide](https://flask.palletsprojects.com/e
 [Mapa de nuevo leon](https://www.3museos.com/?eventos=la-gran-ciudad-del-nuevo-reino-de-leon)
 
 [styling wizard](https://mapstyle.withgoogle.com/)
+
+[D&D Charactersheet](https://media.wizards.com/2021/dnd/downloads/dnd_blankcharactersheet_es.pdf)
